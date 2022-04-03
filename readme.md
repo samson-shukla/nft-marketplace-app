@@ -5,6 +5,6 @@ Here is a blend of both.
 
 > In this repository I will be tracking everything I am learning in React Native and Web3.
 
-First I will be foollowing a crash course on YouTube.
+First I will be following a crash course on YouTube.
 Then, will be modifying and playing to get familiar with this exciting tech.
 Finally, will be creating something cool on my own.
